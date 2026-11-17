@@ -1,4 +1,4 @@
-# Olist E-Commerce ETL Pipeline
+# E-commerce And Data Processing And ETL
 
 ## Project Overview
 This project is an automated Python ETL (Extract, Transform, Load) pipeline that processes raw e-commerce transaction data. It cleans missing values, standardizes datetime formats, joins multiple tables, and exports a highly compressed Parquet file ready for dashboard visualization.
